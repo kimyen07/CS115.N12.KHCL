@@ -1,12 +1,18 @@
 <h1> Welcome to my profile! </h1>
 <h2> About me </h2>
-<br>- <b>Name</b>: Lê Thị Kim Yến</br>
-<br>- <b>D.O.B</b>: 23/07/2003</br>
-<br>- <b>Hometown</b>: Ho Chi Minh City, Vietnam</br>
-<br>- <b>Interests</b>: image detection, coding, music and astro 
+<ul>
+  <li><b>Name</b>: Lê Thị Kim Yến</li>
+  <li><b>D.O.B</b>: 23/07/2003</li> 
+  <li><b>Hometown</b>: Ho Chi Minh City, Vietnam</li> 
+  <li><b>Interests</b>: image detection, coding, music and astro</li> 
+</ul>
 <h2> Current work </h2>
-<br>- Studying Computer Science at University of Information Technology of Ho Chi Minh City</br>
-<br>- Class: KHCL2021.1</br>
-<h2> Contact for work </h2>
-<br>- <a href="https://www.facebook.com/kimyenn07">Facebook</a></br>
-<br>- <a href="https://twitter.com/YenLe21894285">Twitter</a></br>
+<ul>
+  <li>Studying Computer Science at University of Information Technology of Ho Chi Minh City</li>
+  <li>Class: KHCL2021.1</li> 
+</ul>
+<h2>Contact for work</h2>
+<ul>
+<li><a href="https://www.facebook.com/kimyenn07">Facebook</a></li>
+<li><a href="https://twitter.com/YenLe21894285">Twitter</a></li>
+</ul>
