@@ -8,4 +8,5 @@
 <br>- Studying Computer Science at University of Information Technology of Ho Chi Minh City</br>
 <br>- Class: KHCL2021.1</br>
 <h2> Contact for work </h2>
-- Facebook: 
+<br>- <a href="https://www.facebook.com/kimyenn07">Facebook</a></br>
+<br>- <a href="https://twitter.com/YenLe21894285">Twitter</a></br>
