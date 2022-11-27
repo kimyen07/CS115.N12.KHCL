@@ -4,7 +4,6 @@
   <li><b>Name</b>: Lê Thị Kim Yến</li>
   <li><b>D.O.B</b>: 23/07/2003</li> 
   <li><b>Hometown</b>: Ho Chi Minh City, Vietnam</li> 
-  <li><b>Interests</b>: image detection, coding, music and astro</li> 
 </ul>
 <h2> Current work </h2>
 <ul>
