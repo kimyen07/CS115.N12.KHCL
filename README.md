@@ -8,7 +8,6 @@
 <h2> Current work </h2>
 <ul>
   <li>Studying Computer Science at University of Information Technology of Ho Chi Minh City</li>
-  <li>Class: KHCL2021.1</li> 
 </ul>
 <h2>Contact for work</h2>
 <ul>
