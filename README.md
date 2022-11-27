@@ -1,7 +1,7 @@
 <h1> Welcome to my profile! </h1>
 <h2> About me </h2>
 <ul>
-  <li><b>Name</b>: Lê Thị Kim Yến</li>
+  <li><b>Name</b>: Yến Lê</li>
   <li><b>D.O.B</b>: 23/07/2003</li> 
   <li><b>Hometown</b>: Ho Chi Minh City, Vietnam</li> 
 </ul>
